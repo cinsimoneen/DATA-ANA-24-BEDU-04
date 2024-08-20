@@ -1,6 +1,8 @@
+# requerimientos podemos usar comentarios
 notebook
 pandas
 requests
 seaborn
 matplotlib
 scipyjupyter
+scikit-learn
